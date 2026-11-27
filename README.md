@@ -112,7 +112,7 @@ DAA-Practicals/
 
 ## Author
 
-**MANIKANTA..MANEPALLI**
+**MANIKANTA.MANEPALLI**
 
 Computer Science and Engineering (CSE) — Artificial Intelligence and Machine Learning (AI & ML)
 
